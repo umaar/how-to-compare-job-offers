@@ -3,7 +3,7 @@
 
 See the accompanying blog post: [The spreadsheet I use to compare job offers](https://umaar.com/blog/spreadsheet-to-compare-job-offers-in-tech/)
 
-There's a [blank template](#user-content-blank-template), and an example [filled in template](#user-content-filled-in-template) below. Or alternatively, here's direct link to a [Google Sheet](https://docs.google.com/spreadsheets/d/1T4J8DaGO1gwNuDL8Csax6F7UyMgc9qsvOKyIzrZsnYg/edit?usp=sharing).
+There's a [blank template](#blank-template), and an example [filled in template](#filled-in-template) below. Or alternatively, here's direct link to a [Google Sheet](https://docs.google.com/spreadsheets/d/1T4J8DaGO1gwNuDL8Csax6F7UyMgc9qsvOKyIzrZsnYg/edit?usp=sharing).
 
 ### Blank template
 
@@ -27,7 +27,8 @@ Area of focus | Place 1 | Place 2 | Notes
 💤 Lack of politics |   |   |  
 💻 Technologies |   |   |  
 
-
+<br />
+<br />
 
 ### Filled in template
 
@@ -50,6 +51,7 @@ Area of focus | Place 1 | Place 2 | Notes
 |📐 Technology architecture     |1  |        |MoJ have established tools for CI/Testing/Deployments/Rollbacks/Code Review/Debugging/Development/Collaboration. Imperial is smaller and appears to have less in place (based on GitHub)                                                                             |
 |💤 Lack of politics            |   |1       |Both have some, but Imperial better protects you from it                                                                                                                                                                                                             |
 |💻 Technologies                |   |1       |Imperial use very interesting + modern tech. MoJ are starting to use modern tech, but also have some legacy code                                                                                                                                                     |
+<br />
 
 ---
 
