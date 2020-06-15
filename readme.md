@@ -1,5 +1,5 @@
 
-## How to compare jobs offers
+## How to compare job offers
 
 See the accompanying blog post: [The spreadsheet I use to compare job offers](https://umaar.com/blog/spreadsheet-to-compare-job-offers-in-tech/)
 
