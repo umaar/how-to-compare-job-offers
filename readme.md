@@ -28,7 +28,6 @@ Area of focus | Place 1 | Place 2 | Notes
 💻 Technologies |   |   |  
 
 <br />
-<br />
 
 ### Filled in template
 
@@ -52,6 +51,10 @@ Area of focus | Place 1 | Place 2 | Notes
 |💤 Lack of politics            |   |1       |Both have some, but Imperial better protects you from it                                                                                                                                                                                                             |
 |💻 Technologies                |   |1       |Imperial use very interesting + modern tech. MoJ are starting to use modern tech, but also have some legacy code                                                                                                                                                     |
 <br />
+
+### Contribute
+
+If you have other criteria which can be used to evaluate job offers, please submit a PR.
 
 ---
 
